@@ -18,3 +18,5 @@ Lines 10-13 can be edited to change the directory from which the user can select
 Lines 20-23 should be edited if you don't use the name 'sample-mp4s'
 
 Line 32 should be edited to match your desired name of the 'final_folder' directory
+
+It is also possible to give the user a preview at the end of the script with the clip.preview() example
